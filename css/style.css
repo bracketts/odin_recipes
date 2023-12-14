@@ -20,7 +20,7 @@ img {
 }
 
 .main-menu {
-  display: flex;
+  list-style: none;
 }
 .main-page {
   height: auto;
